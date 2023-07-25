@@ -1,4 +1,4 @@
-#Hello 👋
+# Hello 👋
 I'm Łukasz from Poland. I am currently studying Computer Science at the University of Applied Informatics and Management in Warsaw 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KryskiewiczLukasz)](https://github.com/anuraghazra/github-readme-stats)
